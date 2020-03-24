@@ -1,0 +1,2 @@
+# Informatica
+Primer repositorio
